@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "learned-acolyte-293719",
+  "private_key_id": "ba2885f66dfc7aed2804bcdc23a17c5c47a75d1f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDluGJmuACgyjwo\nQDRq5W02jRjWjvDtVaUj9HqMxcb4f0+KaSFxXjsRQfYH6YsB/dem1l9sY4udrpwe\nkp5zd79lb8re22CPh1Oipsq+bv1jJicVNxIBvtakGlbAzCh0pTSLyXfgzTCpIrkX\n7h1DaD3Sjhtbh9IZaS6qYl5ktDOcW38VNyc6g4YAczBI0kjsmixbqZoSS6J6HHOA\n1WI4ZS1KZvPeNb1fBSP3qd0D4B5nlt9O6t65Cx0peHUqvIemAmOt6Q/gbJvtRlRJ\nQq55uhvy5XggzYL/VPtxM0LqQqWhsXxqMT76MjgJedZ96udM4LTVRp8Lt6/wuyg5\nD7+glgu/AgMBAAECggEACGSov70IVNeexA+4epFgYKZeGnTFi75d1sb3dU5Cm1C3\nfMSjkqtROCuzTA215QA70V4yxViLwNqg3KMZw/lDlnazsFnOmN/mZ+J1NOkEPAuo\nUOeesk6hNAS8V7X94mko1tSpGx8UIJHitmOeURitbZSAnmMDg6cqq9IFReOpoRRK\n/uhtEB6pmPmO+Xb7NsfbJHoEZorMfsbQMM46y3UBynzJwjfk3rwSEptdgwrVBTJi\nfj4bgZJrLCSYTW0VPcCDY9CPjJl//LEe0su+u4FAIJi3nR8AhaBTXqAgkx0T2qAr\nry8nsf4rAHBJD8gLbd3WE8TgKvLyqZ3jI/6DFEj6qQKBgQD9dxE1k8dBGwVmlell\nYKteCjHH+BUl1zTCXd39I2vAvd0b/C11Zbda7nSjFCSuhKqALb2O++4/OUa7ZGmA\ncdXv4wnUf4K8U07GrEXZjptpq033QtOEB7HzSEC4l9ZERHzLj5la51gyK12pL+8P\nEMnkM1tDMpFyWnLHnRH3r9KnlwKBgQDoBIZGRFpC51Yqc5G8mk4Si7fEW58Yjxfp\noG+Nhy1bSIi/c/NRJ4yrgmYgLj0dPZg2OOaQFJMVywOLsYrRceNPP0ApdCcEhNco\nRRlSFdU75C458s/bgyxA4b6dAXmWXtw94soLnXotXC6DJcYLqzIHrkXQFHkVzxnX\n4cnQaH+CGQKBgFD8VldUHHpE8/jPNX/a32Zww28taTRqCsV/0IotYyR2hcuHS88S\n7P706fehXAcXBJNoCgVBoeI5nswJTVxpAv5fAKkRBOi/hZAdQ0Q8OJQO1B6JD6RE\nASvGjkds3F17tJQmEc3l1VxSVt7UHgImTxvG/QX/hlGPbNUy7qbBWwGJAoGAGlqJ\nNeoFppvIOcIux5FvVMPx96fAhnWabbr/cL/t8vRmM/jjplArtj91gio+XtfkNiR4\na90qZ8tLd86OygN5okK48vxyghzko3pVyfEY61ibt5FQ8soPeL8re4HzYZUcxxq/\ngFo+ynAyCEt+F002vZCZ9Wyd5FBFyzOmTLnR4eECgYAj6NaDJSRmgcD2FgEqiXh2\nZFma+GiYt2bpczHUCTxTpONk4PNcfu+5lJLqnZe7+i4yfb6lPkqGgIczymeQUdqH\n1mGTgDuHVap4UY5Al2cmdin3Vk8JOxn5U5ebx9E8v/sfQnlTdSE9OeFETDy+/8Tu\nBzlLmHWKTiHMJ7cfb4fj+Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "jupiter-google-sheets@learned-acolyte-293719.iam.gserviceaccount.com",
+  "client_id": "103971469016877680302",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jupiter-google-sheets%40learned-acolyte-293719.iam.gserviceaccount.com"
+}
